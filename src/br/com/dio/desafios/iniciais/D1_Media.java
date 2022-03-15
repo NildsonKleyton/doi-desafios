@@ -1,5 +1,5 @@
 
-package br.com.dio.desafios;
+package br.com.dio.desafios.iniciais;
 /*
 Desafios Iniciais - GFT Start #4 Java
 

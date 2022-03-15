@@ -1,4 +1,4 @@
-package br.com.dio.desafios;
+package br.com.dio.desafios.iniciais;
 /*
 Desafios
 Crie um programa que leia um número e mostre os números pares
